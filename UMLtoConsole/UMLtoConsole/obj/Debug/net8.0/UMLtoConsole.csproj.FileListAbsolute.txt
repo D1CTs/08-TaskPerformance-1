@@ -1,0 +1,14 @@
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\bin\Debug\net8.0\UMLtoConsole.exe
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\bin\Debug\net8.0\UMLtoConsole.deps.json
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\bin\Debug\net8.0\UMLtoConsole.runtimeconfig.json
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\bin\Debug\net8.0\UMLtoConsole.dll
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\bin\Debug\net8.0\UMLtoConsole.pdb
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.AssemblyInfoInputs.cache
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.AssemblyInfo.cs
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.csproj.CoreCompileInputs.cache
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.dll
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\refint\UMLtoConsole.dll
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.pdb
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\UMLtoConsole.genruntimeconfig.cache
+D:\Shawn's\School\2.1\ComProg3\UMLtoConsole\UMLtoConsole\obj\Debug\net8.0\ref\UMLtoConsole.dll
